@@ -1,0 +1,94 @@
+[
+    {
+        "id":1,
+        "imagen":"https://dl8.wapkizfile.info/img/163c8fac28145f64ebb6aa0b6186c887/osanime+wapkiz+com/cover.jpg",
+        "title":"Dandadan",
+        "manga":"https://es.novelcool.com/novel/Dandadan.html",
+        "anime":"https://www3.animeflv.net/anime/dandadan",
+        "cancion":"https://www.osanime.com/filedownload/2948478/Otonoke-(osanime.com).mp3",
+        "tags":"Acción, Comedia, Shounen, Sobrenatural"
+    },
+    {
+        "id":2,
+        "imagen":"https://animeflv.net/uploads/animes/covers/3870.jpg",
+        "title":"Shy",
+        "manga":"https://es.novelcool.com/novel/Shy.html",
+        "anime":"https://www3.animeflv.net/anime/shy",
+        "cancion":"https://www.osanime.com/filedownload/2809730/Shiny-Girl-(osanime.com).mp3",
+        "tags":"Acción, Drama, Shounen, Superpoderes"
+    },
+    {
+        "id":3,
+        "imagen":"https://www3.animeflv.net/uploads/animes/covers/4026.jpg",
+        "title":"Shikanoko Nokonoko Koshitantan",
+        "manga":"https://es.novelcool.com/novel/Shikanoko-Nokonoko-Koshitantan.html",
+        "anime":"https://www3.animeflv.net/anime/shikanoko-nokonoko-koshitantan",
+        "cancion":"https://www.osanime.com/filedownload/2913936/Shikairo-Days-(osanime.com).mp3",
+        "tags":"Shounen, Escolares"
+    },
+    {
+        "id":4,
+        "imagen":"https://www3.animeflv.net/uploads/animes/covers/578.jpg",
+        "title":"Sacred Seven",
+        "manga":"Distribución restringida",
+        "anime":"https://www3.animeflv.net/anime/sacred-seven",
+        "cancion":"Distribución restringida",
+        "tags":"Acción, Ciencia, Ficción, Escolares, Superpoderes"
+    },
+    {
+        "id":5,
+        "imagen":"https://www3.animeflv.net/uploads/animes/covers/3851.jpg",
+        "title":"Helck",
+        "manga":"https://es.novelcool.com/novel/Helck.html",
+        "anime":"https://www3.animeflv.net/anime/helck",
+        "cancion":"https://www.osanime.com/filedownload/2806087/HELP-(osanime.com).mp3",
+        "tags":"Acción, Fantasía"
+    },
+    {
+        "id":6,
+        "imagen":"https://www3.animeflv.net/uploads/animes/covers/3865.jpg",
+        "title":"Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
+        "manga":"https://es.novelcool.com/novel/Shangri-La-Frontier-Kusoge-Hunter-Kamige-Ni-Idoman-To-Su.html",
+        "anime":"https://www3.animeflv.net/anime/shangrila-frontier-kusoge-hunter-kamige-ni-idoman-to-su",
+        "cancion":"https://www.osanime.com/filedownload/2854054/Danger-Danger-(osanime.com).mp3",
+        "tags":"Acción, Aventuras, Fantasía, Shounen"
+    },
+    {
+        "id":7,
+        "imagen":"https://www3.animeflv.net/uploads/animes/covers/4072.jpg",
+        "title":"Puniru wa Kawaii Slime",
+        "manga":"https://es.novelcool.com/novel/Puniru-Is-A-Cute-Slime.html",
+        "anime":"https://www3.animeflv.net/anime/puniru-wa-kawaii-slime",
+        "cancion":"https://www.osanime.com/filedownload/2960480/Gyumu-(osanime.com).mp3",
+        "tags":"Comedia, Escolares, Romance"
+    },
+    {
+        "id":8,
+        "imagen":"https://www3.animeflv.net/uploads/animes/covers/3849.jpg",
+        "title":"Dark Gathering",
+        "manga":"https://es.novelcool.com/novel/original/id-260361.html",
+        "anime":"https://www3.animeflv.net/anime/dark-gathering",
+        "cancion":"https://www.osanime.com/filedownload/2771306/Kakuriyo-(osanime.com).mp3",
+        "tags":"Sobrenatural, Terror"
+    },
+    {
+        "id":9,
+        "imagen":"https://www3.animeflv.net/uploads/animes/covers/3891.jpg",
+        "title":"Undead Unluck",
+        "manga":"https://es.novelcool.com/novel/Undead-Unluck.html",
+        "anime":"https://www3.animeflv.net/anime/undead-unluck",
+        "cancion":"https://www.osanime.com/filedownload/2862243/Love-Call-(osanime.com).mp3",
+        "tags":"Acción, Comedia, Shounen, Sobrenatural, Superpoderes"
+    },
+    {
+        "id":10,
+        "imagen":"https://www3.animeflv.net/uploads/animes/covers/3986.jpg",
+        "title":"Kaii to Otome to Kamikakushi",
+        "manga":"https://es.novelcool.com/novel/Kaii-To-Otome-To-Kamikakushi.html",
+        "anime":"https://www3.animeflv.net/anime/kaii-to-otome-to-kamikakushi",
+        "cancion":"https://www.osanime.com/filedownload/2889617/Akaku-Somete-Shinzou-(osanime.com).mp3",
+        "tags":"Misterio, Sobrenatural"
+    }
+
+
+]
