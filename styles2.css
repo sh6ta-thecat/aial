@@ -1,0 +1,129 @@
+/* Configuración general */
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    padding: 20px;
+}
+
+.details-container {
+    width: 90%;
+    max-width: 600px;
+    text-align: center;
+    background-color: #1a1a1a;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+.anime-image {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.anime-title {
+    color: #1db954;
+    font-size: 1.8rem;
+    margin: 15px 0;
+}
+
+.anime-info, .anime-tags {
+    margin: 10px 0;
+    font-size: 1rem;
+    color: #b3b3b3;
+}
+
+/* Botón de regresar */
+.back-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #1db954;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.back-button:hover {
+    background-color: #1ed760;
+}
+
+/* Reproductor de audio estilizado */
+.audio-player {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.audio-wave {
+    background-image: linear-gradient(90deg, #1db954 10%, transparent 10%);
+    background-size: 10px 50px;
+    width: 100%;
+    height: 50px;
+    margin-bottom: 15px;
+}
+
+.audio-controls {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 10px;
+}
+
+.audio-btn {
+    background-color: transparent;
+    border: none;
+    color: #b3b3b3;
+    font-size: 1.8rem;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+.audio-btn:hover {
+    color: #1db954;
+}
+
+.progress-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.time {
+    font-size: 0.9rem;
+    color: #b3b3b3;
+}
+
+.progress-bar {
+    flex-grow: 1;
+    margin: 0 10px;
+    -webkit-appearance: none;
+    height: 5px;
+    background: #444;
+    outline: none;
+    border-radius: 5px;
+}
+
+.progress-bar::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 15px;
+    height: 15px;
+    background-color: #1db954;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.progress-bar::-moz-range-thumb {
+    width: 15px;
+    height: 15px;
+    background-color: #1db954;
+    border-radius: 50%;
+    cursor: pointer;
+}
